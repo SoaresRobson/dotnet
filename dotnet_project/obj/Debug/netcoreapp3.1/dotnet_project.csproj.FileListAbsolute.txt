@@ -1,0 +1,13 @@
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\bin\Debug\netcoreapp3.1\dotnet_project.exe
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\bin\Debug\netcoreapp3.1\dotnet_project.deps.json
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\bin\Debug\netcoreapp3.1\dotnet_project.runtimeconfig.json
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\bin\Debug\netcoreapp3.1\dotnet_project.runtimeconfig.dev.json
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\bin\Debug\netcoreapp3.1\dotnet_project.dll
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\bin\Debug\netcoreapp3.1\dotnet_project.pdb
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\obj\Debug\netcoreapp3.1\dotnet_project.csprojAssemblyReference.cache
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\obj\Debug\netcoreapp3.1\dotnet_project.csproj.CoreCompileInputs.cache
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\obj\Debug\netcoreapp3.1\dotnet_project.AssemblyInfoInputs.cache
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\obj\Debug\netcoreapp3.1\dotnet_project.AssemblyInfo.cs
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\obj\Debug\netcoreapp3.1\dotnet_project.dll
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\obj\Debug\netcoreapp3.1\dotnet_project.pdb
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\dotnet_project\obj\Debug\netcoreapp3.1\dotnet_project.genruntimeconfig.cache
