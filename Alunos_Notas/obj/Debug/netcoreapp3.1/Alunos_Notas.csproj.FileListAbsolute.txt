@@ -1,0 +1,13 @@
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\bin\Debug\netcoreapp3.1\Alunos_Notas.exe
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\bin\Debug\netcoreapp3.1\Alunos_Notas.deps.json
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\bin\Debug\netcoreapp3.1\Alunos_Notas.runtimeconfig.json
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\bin\Debug\netcoreapp3.1\Alunos_Notas.runtimeconfig.dev.json
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\bin\Debug\netcoreapp3.1\Alunos_Notas.dll
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\bin\Debug\netcoreapp3.1\Alunos_Notas.pdb
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\obj\Debug\netcoreapp3.1\Alunos_Notas.csprojAssemblyReference.cache
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\obj\Debug\netcoreapp3.1\Alunos_Notas.csproj.CoreCompileInputs.cache
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\obj\Debug\netcoreapp3.1\Alunos_Notas.AssemblyInfoInputs.cache
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\obj\Debug\netcoreapp3.1\Alunos_Notas.AssemblyInfo.cs
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\obj\Debug\netcoreapp3.1\Alunos_Notas.dll
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\obj\Debug\netcoreapp3.1\Alunos_Notas.pdb
+C:\Users\robgo\OneDrive\Documentos\Estudos\dotnet\Alunos_Notas\obj\Debug\netcoreapp3.1\Alunos_Notas.genruntimeconfig.cache
